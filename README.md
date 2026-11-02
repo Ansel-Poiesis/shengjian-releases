@@ -5,7 +5,7 @@
 
 <a id="home-en"></a>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-en-dark-v3.svg"><img src="assets/home/hero-en-light-v3.svg" alt="FoilPage — Turn video into text you can revisit." width="1000"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-en-dark-v4.svg"><img src="assets/home/hero-en-light-v4.svg" alt="FoilPage — Turn video into text you can revisit." width="1000"></picture></p>
 
 <h1 align="center">FoilPage</h1>
 <p align="center"><strong>Turn video into text you can revisit.</strong><br>Video download, local transcription, and an editable library for Windows.</p>
@@ -183,7 +183,7 @@ Download and process only content you are entitled to use, and follow the source
 <a id="home-zh"></a>
 
 <p align="right"><a href="#user-content-home-en">English</a> · <a href="#user-content-home-zh">简体中文</a></p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-zh-dark-v3.svg"><img src="assets/home/hero-zh-light-v3.svg" alt="FoilPage — 把视频折进文字平面，再展开阅读。" width="1000"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-zh-dark-v4.svg"><img src="assets/home/hero-zh-light-v4.svg" alt="FoilPage — 把视频折进文字平面，再展开阅读。" width="1000"></picture></p>
 
 <h1 align="center">FoilPage</h1>
 <p align="center"><strong>把视频折进文字平面，再展开阅读。</strong><br>Windows 上的视频下载、本地转写与可编辑文本库。</p>

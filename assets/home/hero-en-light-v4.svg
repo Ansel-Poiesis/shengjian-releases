@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img">
+<title>FoilPage</title>
+<rect width="1600" height="460" rx="20" fill="#e7ece5"/>
+<text x="76" y="190" fill="#27362b" font-family="Arial, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">Turn video into</text>
+<text x="76" y="291" fill="#27362b" font-family="Arial, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">text you can revisit.</text>
+<path d="M80 332h48" stroke="#58a77d" stroke-width="5"/>
+<g transform="translate(900 24) scale(.9)">
+  <path d="M10 421 250 446 624 75" fill="none" stroke="#c4d0bf" stroke-width="1"/>
+  <g transform="rotate(-7 195 265)">
+    <rect x="14" y="119" width="355" height="242" rx="22" fill="#173f34" stroke="#58a77d" stroke-opacity=".48"/>
+    <path d="m150 201 80 44-80 44Z" fill="#f1e8d4"/>
+    <path d="M57 321h269" stroke="#58a77d" stroke-width="4"/>
+    <path d="M63 321h88" stroke="#f1e8d4" stroke-width="4"/>
+  </g>
+  <g transform="translate(210 20) rotate(6 164 197)">
+    <path d="M20 0H250l78 78v300q0 22-22 22H20q-20 0-20-22V22Q0 0 20 0Z" fill="#173f34" opacity=".14" transform="translate(10 14)"/>
+    <path d="M20 0H250l78 78v300q0 22-22 22H20q-20 0-20-22V22Q0 0 20 0Z" fill="#f1e8d4"/>
+    <path d="M250 0v58q0 20 20 20h58" fill="#b7c3b2"/>
+    <path d="M250 0 328 78" stroke="#b8734d" stroke-width="3"/>
+    <rect x="36" y="55" width="78" height="7" rx="3.5" fill="#58a77d"/>
+    <rect x="36" y="104" width="235" height="16" rx="4" fill="#173f34"/>
+    <rect x="36" y="133" width="180" height="16" rx="4" fill="#173f34"/>
+    <g fill="#b7c3b2">
+      <rect x="36" y="192" width="255" height="7" rx="3.5"/>
+      <rect x="36" y="213" width="235" height="7" rx="3.5"/>
+      <rect x="36" y="234" width="250" height="7" rx="3.5"/>
+      <rect x="36" y="255" width="180" height="7" rx="3.5"/>
+    </g>
+    <rect x="36" y="294" width="98" height="10" rx="4" fill="#58a77d"/>
+    <g fill="#b7c3b2">
+      <rect x="36" y="322" width="250" height="7" rx="3.5"/>
+      <rect x="36" y="343" width="205" height="7" rx="3.5"/>
+    </g>
+  </g>
+</g>
+</svg>
