@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-en-dark.svg">
-    <img src="assets/home/hero-en-light.svg" alt="FoilPage — Turn video into text you can revisit." width="1000">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-en-dark-v2.svg">
+    <img src="assets/home/hero-en-light-v2.svg" alt="FoilPage — Turn video into text you can revisit." width="1000">
   </picture>
 </p>
 

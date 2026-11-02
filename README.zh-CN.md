@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-zh-dark.svg">
-    <img src="assets/home/hero-zh-light.svg" alt="FoilPage：把视频折进文字平面，再展开阅读。" width="1000">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/home/hero-zh-dark-v2.svg">
+    <img src="assets/home/hero-zh-light-v2.svg" alt="FoilPage：把视频折进文字平面，再展开阅读。" width="1000">
   </picture>
 </p>
 
