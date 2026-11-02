@@ -1,7 +1,12 @@
-# 此公开仓库仅跟踪发行说明；安装包和 GPU 包通过 Release assets 提供。
+# 此公开仓库跟踪发行说明、使用文档与主页素材；安装包和 GPU 包通过 Release assets 提供。
 *
 !.gitignore
 !README.md
+!assets/
+!assets/home/
+!assets/home/*.png
+!docs/
+!docs/guide.md
 !releases/
 !releases/1.0.0.md
 !releases/1.1.0.md
