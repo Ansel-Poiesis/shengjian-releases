@@ -2,11 +2,14 @@
 *
 !.gitignore
 !README.md
+!README.zh-CN.md
 !assets/
 !assets/home/
 !assets/home/*.png
+!assets/home/*.svg
 !docs/
 !docs/guide.md
+!docs/guide.zh-CN.md
 !releases/
 !releases/1.0.0.md
 !releases/1.1.0.md

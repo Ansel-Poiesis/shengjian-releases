@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img">
+<title>FoilPage</title>
+<rect width="1600" height="620" rx="20" fill="#0d1117"/>
+<path d="M0 579H1600" stroke="#30363d"/>
+<g transform="translate(76 54)">
+  <path d="M8 0h32l14 14v36H8q-8 0-8-8V8q0-8 8-8Z" fill="#10291f"/>
+  <path d="M34 0v12q0 3 3 3h11" fill="none" stroke="#b8734d" stroke-width="2"/>
+  <path d="M4 39 31 13q4-4 8 0l4 4-30 29q-4 4-8 0Z" fill="#58a77d"/>
+  <path d="m17 15 17 10-17 10Z" fill="#f1e8d4"/>
+  <path d="M20 38h22M17 44h22" stroke="#f1e8d4" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="144" y="91" fill="#f0f6fc" font-family="Arial, Segoe UI, sans-serif" font-size="34" font-weight="650">FoilPage</text>
+<text x="76" y="228" fill="#f0f6fc" font-family="Arial, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">Turn video into</text>
+<text x="76" y="329" fill="#f0f6fc" font-family="Arial, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">text you can revisit.</text>
+<path d="M80 370h48" stroke="#58a77d" stroke-width="5"/>
+<text x="76" y="425" fill="#8b949e" font-family="Arial, Segoe UI, sans-serif" font-size="24">Download · Transcribe locally · Refine drafts</text>
+<g transform="translate(870 62)">
+  <path d="M10 421 250 446 624 75" fill="none" stroke="#30363d" stroke-width="1"/>
+  <g transform="rotate(-7 195 265)">
+    <rect x="14" y="119" width="355" height="242" rx="22" fill="#10291f" stroke="#58a77d" stroke-opacity=".48"/>
+    <path d="m150 201 80 44-80 44Z" fill="#f1e8d4"/>
+    <path d="M57 321h269" stroke="#58a77d" stroke-width="4"/>
+    <path d="M63 321h88" stroke="#f1e8d4" stroke-width="4"/>
+  </g>
+  <g transform="translate(210 20) rotate(6 164 197)">
+    <path d="M20 0H250l78 78v300q0 22-22 22H20q-20 0-20-22V22Q0 0 20 0Z" fill="#10291f" opacity=".14" transform="translate(10 14)"/>
+    <path d="M20 0H250l78 78v300q0 22-22 22H20q-20 0-20-22V22Q0 0 20 0Z" fill="#f1e8d4"/>
+    <path d="M250 0v58q0 20 20 20h58" fill="#47534d"/>
+    <path d="M250 0 328 78" stroke="#b8734d" stroke-width="3"/>
+    <rect x="36" y="55" width="78" height="7" rx="3.5" fill="#58a77d"/>
+    <rect x="36" y="104" width="235" height="16" rx="4" fill="#10291f"/>
+    <rect x="36" y="133" width="180" height="16" rx="4" fill="#10291f"/>
+    <g fill="#47534d">
+      <rect x="36" y="192" width="255" height="7" rx="3.5"/>
+      <rect x="36" y="213" width="235" height="7" rx="3.5"/>
+      <rect x="36" y="234" width="250" height="7" rx="3.5"/>
+      <rect x="36" y="255" width="180" height="7" rx="3.5"/>
+    </g>
+    <rect x="36" y="294" width="98" height="10" rx="4" fill="#58a77d"/>
+    <g fill="#47534d">
+      <rect x="36" y="322" width="250" height="7" rx="3.5"/>
+      <rect x="36" y="343" width="205" height="7" rx="3.5"/>
+    </g>
+  </g>
+</g>
+</svg>
