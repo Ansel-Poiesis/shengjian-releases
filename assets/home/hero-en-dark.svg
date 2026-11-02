@@ -13,7 +13,6 @@
 <text x="76" y="228" fill="#f0f6fc" font-family="Arial, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">Turn video into</text>
 <text x="76" y="329" fill="#f0f6fc" font-family="Arial, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">text you can revisit.</text>
 <path d="M80 370h48" stroke="#58a77d" stroke-width="5"/>
-<text x="76" y="425" fill="#8b949e" font-family="Arial, Segoe UI, sans-serif" font-size="24">Download · Transcribe locally · Refine drafts</text>
 <g transform="translate(870 62)">
   <path d="M10 421 250 446 624 75" fill="none" stroke="#30363d" stroke-width="1"/>
   <g transform="rotate(-7 195 265)">
